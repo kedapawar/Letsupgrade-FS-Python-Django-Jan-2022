@@ -1,0 +1,354 @@
+<----Start Header----->
+
+.cbox{
+    border: 7px solid #A190A3;
+    height: 900px;
+    z-index: 1;
+    width: 100%;
+}
+.krow
+{
+    height: 110px;
+    border: 4px double #2980B9;
+    width: 100%;
+ }
+.kcol
+{
+    height: 110px;
+    text-align: center;
+    font-family: sans-serif;
+    color: royalblue;
+}
+img
+{
+    height: 80px;
+    padding-top: 7px;
+   
+    
+    }
+.drow1
+{
+   
+    font-size: 15px;
+    font-family:cursive;
+    text-align: center;
+    color: #5499C7;
+ 
+}
+.drow_1
+{
+   
+    font-size: 15px;
+    font-family:cursive;
+    text-align: center;
+    color: #5499C7;
+ 
+}
+.drow2
+{
+    
+    font-family: fantasy;
+    color: #745078 ;
+    font-size: 18px;
+    text-align:end;
+     
+}
+.drow3
+{
+   
+    font-size: 9px;
+    font-family: courier;
+     text-align: center;
+    color: #7B241C;
+    padding-top: 5px;
+    
+}
+
+.drow_3
+{
+   
+    font-size: 9px;
+    font-family: courier;
+     text-align: center;
+    color: #7B241C;
+    padding-top: 5px;
+    
+}
+.drow11
+{
+   
+    font-size: 50px;
+    font-family:arial;
+    text-align: center;
+    color: #D68910;
+ 
+}
+.kicon
+{
+    height: 30px;
+    font-family: sans-serif;
+    color: royalblue;
+    padding-top: 7px;
+}
+.drow100
+{
+    color: #1F618D;
+    text-shadow: 2px 2px #45B39D;
+    text-align: center;
+    padding-top: 5px;
+}
+
+<----End Header----->
+
+
+<-----Start Menu---->
+.kmenubox
+{
+    
+    height: 35px;  
+    z-index: 1;
+    width: 100%;
+   
+}
+.kmenubar
+{
+     height: 40px;
+     width: 100%;
+     border: 4px double #2980B9;
+     background-color: #eb8aab;
+     padding-top: 3px;
+     color: rgba(1, 6, 20, 0.91); 
+}
+.kmenucol
+{
+    
+    height: 30px;
+    font-family:inherit;
+    
+    font-size: 15px;
+    font: bold;
+    padding-left: 8px;
+    text-align: center;
+}
+
+.kmenubox1
+{
+    
+    height: 35px; 
+    width: 100%;
+   
+}
+.kmenubar1
+{
+     height: 40px;
+    width: 100%;
+   border: 4px double #2980B9;
+     background-color:#D68910;
+    padding-top: 3px;
+}
+
+
+.kmenucol1
+{
+    
+    height: 30px;
+    font-family:monospace;
+    color: rgb(76, 163, 170); 
+    font-size: 15px;
+    font: bold;
+    padding-left: 8px;
+    text-align: center;
+}
+
+
+
+
+
+
+<------End Menu---->
+
+
+<--- Image Panal-------->
+.kimagebox
+{
+    width: 100%;
+    height: 40px;  
+   
+   
+     
+    
+}
+
+
+.kimagebar
+{
+     height: 300px;
+     overflow-y: auto;
+     width: 100%;
+     padding-top: 1px;
+}
+    
+.kimagecol1
+{
+    height: 370px;
+    color: #D68910;
+    width: 100%;
+    background-size: cover;
+    background-color: rgb(33, 120, 195);
+   
+    }
+.kimagecol2
+{
+    height: 370px;
+    width: 100%;
+    font-family:monospace;
+    color: rgba(209, 165, 95, 0.59); 
+    font-size: 14px;
+    font: bold;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    text-align: center; 
+    background-size: cover;
+    background-image: url(D:/college/image/f3.jpg);
+    }
+.kimagecol3
+{
+    height: 370px;
+    width: 100%;
+    font-family:monospace;
+    color: #d13737; 
+   text-decoration-line: underline;
+    font-size: 18px;
+    
+    text-align: center; 
+   
+     padding-bottom: 25px;
+     background-size: cover;
+     background-color: #eee7ef;
+    }
+.kadd
+{
+    
+    color: rgb(242, 28, 28);
+    padding-left: 20px;
+    animation: 3s anim-lineUp ease-out infinite;
+    font-size: 12px;
+    height: 30px;
+     font: bold;
+    padding-top: 15px;
+    
+}
+@keyframes anim-lineUp {
+  0% {
+    opacity: 0;
+    transform: translateY(80%);
+  }
+  20% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0%);
+  }
+}
+
+
+
+
+
+<----End Advertisenig panel---->
+
+<!-------Image Galary start------>
+
+ .carousel-inner img {
+    width:auto;
+    height: auto;
+  }
+.owl-carousel .owl-stage {
+      display: flex;
+    }
+<!-------Image Galary end------>
+.cbox2
+{
+    border: 7px solid #A190A3;
+    height: 50px;
+    width: 100%;
+}
+.krow2
+{
+    height: 40px;
+    width: 100%;
+    border: 4px double #2980B9;
+     background-color: #D68910;
+    
+ }
+.kcol2
+{
+    height: 40px;
+    
+    font-family: sans-serif;
+    color: royalblue;
+}
+
+
+
+/*--------------------Mobile--------------------------*/
+
+@media(max-width:768px)
+{
+ 
+    
+     .kcol
+    {
+        float: none;
+        width: 100%;
+        height: auto;
+        align-content: center;
+    }
+    .krow
+    {
+        
+        float: none;
+        width: 100%;
+        height: auto;
+    }
+    
+ .drow_3
+{
+   
+    font-size: 12px;
+    font-family: courier;
+     text-align: center;
+    color: #7B241C;
+    padding-top: 5px;
+    
+}
+    
+    .kicon
+    {
+        display: none;
+    }
+    
+     .drow_3
+    {
+       visibility: hidden;
+    }
+    
+   
+     .kmenubox1
+    {
+       
+        flex-flow: rowwrap;
+    }
+    
+    
+  
+   
+    
+}
+
+
