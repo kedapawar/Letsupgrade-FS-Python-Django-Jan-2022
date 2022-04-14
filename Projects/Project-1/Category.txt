@@ -1,42 +1,42 @@
-paperback      :        books     
-software engineering      :        books     
-hardcover      :        books     
-algebra      :        books     
-tee-      :        clothing and accessories     
-tees      :        clothing and accessories     
-shirt      :        clothing and accessories     
-tee(with space character)      :        clothing and accessories     
-watch      :        watches and jwellery     
-car body      :        Home and Kitchen     
-car seat      :        Home and Kitchen     
-bike cover      :        Home and Kitchen     
-helmet      :        home and kitchen     
-skullcandy      :        mobiles and tablets     
-jacket      :        clothing and accessories     
-house + gloves      :        Home and Kitchen     
-gloves      :        sports fitness     
-phablet      :        mobiles and tablets     
-kurta      :        clothing and accessories     
-flip cover      :        mobiles and tablets     
-back cover      :        mobiles and tablets     
-revolving      :        Home and Kitchen     
-deodorant      :        beauty health     
-handbag      :        handbags and luggage     
-hobo      :        handbags and luggage     
-bracelet      :        watches and jwellery     
-bra      :        clothing and accessories     
-tupperware      :        Home and Kitchen     
-shaver      :        beauty health     
-containers      :        Home and Kitchen     
-olive oil      :        Home and Kitchen     
-jars      :        Home and Kitchen     
-lakme      :        beauty health     
-condom      :        beauty health     
-dressing      :        beauty health     
-trouser      :        clothing and accessories     
-water purifier      :        Home and Kitchen     
-shoe      :        shoe and belt     
-pendent      :        watches and jwellery     
+  paperback      :        books     
+   software engineering      :        books     
+   hardcover      :        books     
+   algebra      :        books     
+   tee-      :        clothing and accessories     
+   tees      :        clothing and accessories     
+   shirt      :        clothing and accessories     
+   tee(with space character)      :        clothing and accessories     
+   watch      :        watches and jwellery     
+   car body      :        Home and Kitchen     
+   car seat      :        Home and Kitchen     
+   bike cover      :        Home and Kitchen     
+   helmet      :        home and kitchen     
+   skullcandy      :        mobiles and tablets     
+   jacket      :        clothing and accessories     
+   house + gloves      :        Home and Kitchen     
+   gloves      :        sports fitness     
+   phablet      :        mobiles and tablets     
+   kurta      :        clothing and accessories     
+   flip cover      :        mobiles and tablets     
+   back cover      :        mobiles and tablets     
+   revolving      :        Home and Kitchen     
+   deodorant      :        beauty health     
+   handbag      :        handbags and luggage     
+   hobo      :        handbags and luggage     
+   bracelet      :        watches and jwellery     
+   bra      :        clothing and accessories     
+   tupperware      :        Home and Kitchen     
+   shaver      :        beauty health     
+   containers      :        Home and Kitchen     
+   olive oil      :        Home and Kitchen     
+   jars      :        Home and Kitchen     
+   lakme      :        beauty health     
+   condom      :        beauty health     
+   dressing      :        beauty health     
+   trouser      :        clothing and accessories     
+   water purifier      :        Home and Kitchen     
+   shoe      :        shoe and belt     
+   pendent      :        watches and jwellery     
    shoes(      :        shoe and belt     
    parker      :        books     
    manforce      :        beauty health     
